@@ -5,6 +5,6 @@ This repository holds the launcher for the [RuneLite client](https://github.com/
 
 If you have any questions, please join our [Discord](https://discord.gg/mePCs8U) server or alternatively our IRC channel on [irc.rizon.net #runelite](http://qchat.rizon.net/?channels=runelite&uio=d4).
 
-### License
+### License 
 
 RuneLite is [licensed under the BSD 2-clause license](https://github.com/runelite/launcher/blob/master/LICENSE). 
