@@ -7,4 +7,4 @@ If you have any questions, please join our [Discord](https://discord.gg/mePCs8U)
 
 ### License
 
-RuneLite is [licensed under the BSD 2-clause license](https://github.com/runelite/launcher/blob/master/LICENSE).
+RuneLite is [licensed under the BSD 2-clause license](https://github.com/runelite/launcher/blob/master/LICENSE). 
